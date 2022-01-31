@@ -1,0 +1,14 @@
+export const SET_USER = "SET_USER";
+export const SET_LOADING = "SET_LOADING";
+export const SET_ISAUTH = "SET_ISAUTH";
+export const SET_TOKEN = "SET_TOKEN";
+export const SET_ALERT = "SET_ALERT";
+export const SET_CATEGORIES = "SET_CATEGORIES";
+export const SET_PRODUCT = "SET_PRODUCT";
+export const SET_CART = "SET_CART";
+export const SET_LOCATION = "SET_LOCATION";
+export const SET_DELIVERY_SPEEDS = "SET_DELIVERY_SPEEDS";
+export const SET_ADDRESSES = "SET_ADDRESSES";
+export const SET_ORDER = "SET_ORDER";
+export const SET_YOUR_ORDERS = "SET_YOUR_ORDERS";
+export const LOG_OUT = "LOG_OUT";
